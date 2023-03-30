@@ -1,0 +1,52 @@
+[
+    {
+        "id":"1",
+        "firstName": "Mehak",
+        "middleName": "-",
+        "lastName": "Gupta",
+        "email": "mehak@sourcefuse.com",
+        "phone": "9987678900",
+        "role": "SUPERADMIN",
+        "address": "Ludhiana"
+    },
+    {
+        "id":"2",
+        "firstName": "Sakshi",
+        "middleName": "K",
+        "lastName": "Gupta",
+        "email": "sakshi@sourcefuse.com",
+        "phone": "7508924355",
+        "role": "ADMIN",
+        "address": "Patiala"
+    },
+    {
+        "id":"3",
+        "firstName": "Raghav",
+        "middleName": "-",
+        "lastName": "Bansal",
+        "phone": " 8854345610",
+        "role": "SUBSCRIBER",
+        "address": "Chandigarh",
+        "email": "raghav@sourcefuse.com"
+    },
+    {
+        "id":"4",
+        "lastName": "Jindal",
+        "middleName": "-",
+        "firstName": "Khushi",
+        "email": "khushi@sourcefuse.com",
+        "phone": "8945639010",
+        "role": " SUBSCRIBER",
+        "address": "Bangalore"
+    },
+        {
+        "id":"5",
+        "firstName": "Gaurish",
+        "middleName": "G",
+        "lastName": "Bansal",
+        "email": "gaurish@sourcefuse.com",
+        "phone": "7843520120",
+        "role": "ADMIN",
+        "address": "Gurugram"
+    }
+]

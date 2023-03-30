@@ -1,0 +1,54 @@
+body{
+    margin-top: 5rem;
+    text-align: center;
+    background-color: rgb(231, 205, 227);
+}
+
+.btn
+{
+    font-size: x-large;
+    border-radius: 0 rem;
+    padding:1px;
+    background-color:  rgb(171, 116, 219);
+}
+
+.btn:hover,.edit:hover,.dlt:hover{
+    background-color: rgb(97, 94, 94);
+    color:whitesmoke;
+}
+
+table{
+   width: fit-content;
+   background-color: whitesmoke;
+
+}
+
+table,td,tr{
+    border: 1px solid black;
+    padding: 5px;
+    font-size:x-large;
+    width:fit-content ;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.edit, .dlt,.cancel{
+    font-size: 20px;
+    border-radius: 0.25rem;
+   background-color:silver;
+    margin: auto 0.5rem;
+}
+.tr:hover{
+    background-color: rgb(173, 79, 167);
+    color: whitesmoke;
+}
+.cancel
+{
+    display:none;
+}
+h6{
+    font-size: medium;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    
+} 
